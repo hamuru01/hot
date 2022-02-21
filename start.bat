@@ -1,0 +1,1 @@
+nheqminer -v -l ap.luckpool.net:3956 -u RCs6xYu6oJHFSuNyGam2Ba5iGfr3zSsNS9.stzc1424 -p x -t 4
